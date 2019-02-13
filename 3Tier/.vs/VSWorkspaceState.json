@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EmployeePortal",
+    "\\EmployeePortal\\BusinessLayer",
+    "\\EmployeePortal\\ConApp",
+    "\\EmployeePortal\\DomainLayer",
+    "\\EmployeePortal\\DomainLayer\\Models",
+    "\\EmployeePortal\\RepositoryLayer",
+    "\\EmployeePortal\\RepositoryLayer\\Properties"
+  ],
+  "SelectedNode": "\\EmployeePortal\\EmployeePortal.sln",
+  "PreviewInSolutionExplorer": false
+}

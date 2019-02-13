@@ -1,0 +1,13 @@
+C:\Users\sumith.vyasa\source\repos\EmployeePortal\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\sumith.vyasa\source\repos\EmployeePortal\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lavanya.bejugam\Desktop\3Tier\EmployeePortal\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\lavanya.bejugam\Desktop\3Tier\EmployeePortal\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\lavanya.bejugam\Desktop\3Tier\EmployeePortal\BusinessLayer\bin\Debug\DomainLayer.dll
+C:\Users\lavanya.bejugam\Desktop\3Tier\EmployeePortal\BusinessLayer\bin\Debug\RepositoryLayer.dll
+C:\Users\lavanya.bejugam\Desktop\3Tier\EmployeePortal\BusinessLayer\bin\Debug\DomainLayer.pdb
+C:\Users\lavanya.bejugam\Desktop\3Tier\EmployeePortal\BusinessLayer\bin\Debug\RepositoryLayer.pdb
+C:\Users\lavanya.bejugam\Desktop\3Tier\EmployeePortal\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\lavanya.bejugam\Desktop\3Tier\EmployeePortal\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lavanya.bejugam\Desktop\3Tier\EmployeePortal\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\lavanya.bejugam\Desktop\3Tier\EmployeePortal\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\lavanya.bejugam\Desktop\3Tier\EmployeePortal\BusinessLayer\obj\Debug\BusinessLayer.pdb
